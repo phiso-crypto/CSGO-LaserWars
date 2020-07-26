@@ -48,7 +48,7 @@ public void OnMapStart()
 	GetCurrentMap(mapismi, sizeof(mapismi));
 	char EklentiIsmi[128];
 	GetPluginFilename(INVALID_HANDLE, EklentiIsmi, sizeof(EklentiIsmi));
-	if (StrContains(mapismi, "jb_", false) && StrContains(mapismi, "jail_", false) && StrContains(mapismi, "ba_jail", false))
+	if (StrContains(mapismi, "jb_", false) || StrContains(mapismi, "jail_", false) || StrContains(mapismi, "ba_jail", false))
 	{
 		ServerCommand("sm plugins unload %s", EklentiIsmi);
 	}
