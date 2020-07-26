@@ -1,7 +1,7 @@
 # CSGO-Jailbreak LaserWars #
 
 
-**CSGO Jailbreak sunucularında komutçuların oynatması için güzel bir plugin piyasada olanına kıysala biraz geliştirilmiştir menüleri düzenlenmiştir bazı değişiklikler yapılmıştır.
+**CSGO Jailbreak sunucularında komutçuların oynatması için güzel bir plugin piyasada olanına kıysala biraz geliştirilmiştir menüleri düzenlenmiştir bazı değişiklikler yapılmıştır.**
 
 **Şu an beta sürümündedir çok oyunculu şekilde denemediğim için tüm buglarını bilmiyorum bulduklarınızı bana iletirseniz sevinirim buglar haricinde içinde görmek istediklerinizi veya önerilerinizi de alabilirim.**
 
